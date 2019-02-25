@@ -16,5 +16,8 @@ figcaption {
   font-family: 'Clicker Script', cursive;
   color: #777;
   text-align: right;
+}
 
+.milk-text {
+  font: bold 2.6em "Eslie Swash Caps", cursive;
 }
