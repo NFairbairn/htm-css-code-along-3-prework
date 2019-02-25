@@ -40,3 +40,12 @@ figcaption {
   color: black;
   text-decoration: none;
 }
+
+#details a:hover {
+  color: black;
+  text-decoration: underline;
+}
+
+#detaisl a:active {
+  color: red;
+}
